@@ -9,6 +9,6 @@ Finished project(s):
 Working on project(s):
 - Bright Txter********Progress bar: |■■■■■□□□□□□□□□□□□□□□| 35% have finished
 - Bright Calculator***Progress bar: |■■■■■■■■■■□□□□□□□□□□| 50% have finished
-- Bright PDFer*******Progress bar: |□□□□□□□□□□□□□□□□□□□□| 0 % have finished
+- Bright PDFer*******Progress bar: |□□□□□□□□□□□□□□□□□□□□| 0  % have finished
 
 P.S. We all 100% use Python as our programming language. If you are a C or Java user, please do not be so confused that why our project has NO something like "main(void)" or "class ...{"!
